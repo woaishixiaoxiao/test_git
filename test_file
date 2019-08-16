@@ -4,6 +4,8 @@ int test {
 int test2 {
     cout<<"hello china";
  }
+int test3{
+}
 int main() {
     cout<<"update file";
     test();
